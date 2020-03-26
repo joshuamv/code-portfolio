@@ -22,16 +22,11 @@ body{
   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
 }
 
-.screenshots{
-  height: 10vh;
-  width: 15vw;
-}
-
 .card p{
 
 }
 
 .responsive-img{
-  max-height: 10vh;
-  max-width: 15vw;
+  max-height: auto;
+  max-width: 20vw;
 }
