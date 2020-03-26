@@ -1,6 +1,15 @@
 
 body{
-  font-family: 'Futura';
+  font-family: sans-serif;
+}
+
+h1{
+
+}
+
+div h2{
+  font-weight: normal;
+  font-size: 20px;
 }
 
 .hero{
@@ -11,7 +20,7 @@ body{
   display: inline-block;
   margin: 10px;
   padding: 10px;
-  background: #E6E4CE;
+  background: #FBF5F3;
   height: 30vh;
   width: 20vw;
   border-radius: 5px;
