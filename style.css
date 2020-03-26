@@ -7,7 +7,7 @@ body{
 }
 
 .card{
-  display: inline-flex;
+  display: inline-block;
 }
 
 .screenshots{
