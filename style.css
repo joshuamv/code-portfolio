@@ -14,8 +14,8 @@ body{
 }
 
 .screenshots{
-  height: 20vh;
-  width: 25vw;
+  height: 30vh;
+  width: 20vw;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -24,6 +24,6 @@ body{
 }
 
 .responsive-img{
-  max-height: 20vh;
-  max-width: 25vw;
+  max-height: 30vh;
+  max-width: 20vw;
 }
