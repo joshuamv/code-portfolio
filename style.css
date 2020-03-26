@@ -7,14 +7,19 @@ body{
 }
 
 .card{
-
+  display: inline-flex;
 }
 
 .screenshots{
-width: 30vw;
-height: 20vh;
+  width: 30vw;
+  height: 20vh;
 }
 
 .card p{
 
+}
+
+.responsive-img{
+  height: auto;
+  width: auto;
 }
