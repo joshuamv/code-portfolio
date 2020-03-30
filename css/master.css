@@ -48,13 +48,15 @@ body{
 }
 
 div h2{
+  padding-left: 2px;
+  padding-right: 2px;
   font-weight: 600;
   font-size: 18px;
 }
 
 .card p{
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 2px;
+  padding-right: 2px;
 }
 
 .responsive-img{
