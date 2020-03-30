@@ -39,11 +39,12 @@ body{
   width: 200px;
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  transition: 0.5s;
+  transition: 0.35s;
 }
 
 .card:hover{
   box-shadow: 0 8px 16px 0 rgba(0, 0, 150, 0.25), 0 16px 40px 0 rgba(0, 0, 200, 0.25);
+  transform: scale(1.1);
 }
 
 div h2{
