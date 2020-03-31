@@ -66,9 +66,29 @@ div .tag{
   padding: 4px;
   margin:5px;
   margin-left: 1px;
-  background-color: #DE3C4B;
+  background-color: #211c18;
   border-radius: 4px;
 }
+
+/* #code {
+  background-color: #e33420;
+}
+
+#photography {
+  background-color: #5179d6;
+}
+
+#type {
+  background-color: #50006e;
+}
+
+#design {
+  background-color: #009c4e;
+}
+
+#year1 {
+  background-color: #020014;
+} */
 
 .tag p{
   letter-spacing: 1px;
