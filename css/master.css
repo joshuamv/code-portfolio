@@ -63,7 +63,7 @@ div h2{
 }
 
 div .tag{
-  padding: 5px;
+  padding: 4px;
   margin:5px;
   margin-left: 1px;
   background-color: #DE3C4B;
@@ -71,9 +71,9 @@ div .tag{
 }
 
 .tag p{
-  height:11px;
+  letter-spacing: 1px;
   font-family: monospace;
-  font-size: 10px;
+  font-size: 8px;
   font-weight: normal;
   color: white;
 }
