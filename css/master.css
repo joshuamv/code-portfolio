@@ -1,6 +1,7 @@
 
 *{
   font-family: sans-serif;
+  margin: 0px;
 }
 
 body{
@@ -31,9 +32,15 @@ body{
   width: 90%;
 }
 
+.card:hover{
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 150, 0.25), 0 16px 40px 0 rgba(0, 0, 200, 0.25);
+  transform: scale(1.1);
+}
+
 .card{
   margin: 20px;
   padding: 10px;
+  padding-top: 15px;
   background: #FBF5F3;
   height: 300px;
   width: 200px;
@@ -42,19 +49,37 @@ body{
   transition: 0.33s;
 }
 
-.card:hover{
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 150, 0.25), 0 16px 40px 0 rgba(0, 0, 200, 0.25);
-  transform: scale(1.1);
-}
-
 div h2{
   padding-left: 2px;
   padding-right: 2px;
+  margin-bottom: 2px;
   font-weight: 600;
-  font-size: 18px;
+  font-size: 22px;
 }
 
-.card p{
+.tag-container{
+  display: flex;
+  flex-direction: row;
+}
+
+div .tag{
+  padding: 5px;
+  margin:5px;
+  margin-left: 1px;
+  background-color: #DE3C4B;
+  border-radius: 4px;
+}
+
+.tag p{
+  height:11px;
+  font-family: monospace;
+  font-size: 10px;
+  font-weight: normal;
+  color: white;
+}
+
+.explain{
+  margin-top: 5px;
   padding-left: 2px;
   padding-right: 2px;
 }
