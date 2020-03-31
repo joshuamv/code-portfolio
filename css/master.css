@@ -1,6 +1,6 @@
 
 *{
-  font-family: sans-serif;
+  font-family: "Lato", sans-serif;
   margin: 0px;
 }
 
@@ -11,16 +11,43 @@ body{
 }
 
 .hero{
-  font-family: 'Avenir', sans-serif;
+  font-family: "Lato", sans-serif;
   height: 40vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
 .hero h1{
   color: #FBF5F3;
-  font-size: 40px;
+  font-size: 38px;
+  margin-top: 10vh;
+}
+
+.link-container{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #FBF5F3;
+  font-size: 16px;
+}
+
+.hero-separator{
+  margin: 10px;
+  width: 1px;
+  height: 25px;
+  background-color: #FBF5F3;
+}
+
+footer{
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #FBF5F3;
+  font-size: 16px;
 }
 
 .card-container{
@@ -47,6 +74,7 @@ body{
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   transition: 0.33s;
+  font-size: 16px;
 }
 
 div h2{
