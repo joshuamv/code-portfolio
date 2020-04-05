@@ -79,7 +79,10 @@ footer{
   border-radius: 2px;
 }
 
-/* #button{
+#button{
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 50px;
   background-color: #FBF5F3
   color: #FBF5F3;
-} */
+}
