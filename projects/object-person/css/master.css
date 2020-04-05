@@ -61,7 +61,7 @@ footer{
 }
 
 .responsive-img{
-  max-height: 90vh;
-  max-width: 90vw;
-  border-radius: 0px;
+  max-height: auto;
+  max-width: auto;
+  border-radius: 1px;
 }
