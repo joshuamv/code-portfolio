@@ -78,3 +78,8 @@ footer{
   max-width: 95vw;
   border-radius: 2px;
 }
+
+#sample{
+  max-width: 200px;
+  height: auto;
+}
