@@ -83,3 +83,17 @@ footer{
   max-width: 200px;
   height: auto;
 }
+
+.button{
+  border: 1px;
+  border-color: #FBF5F3:
+  color: #FBF5F3;
+  background: #000022;
+  padding:
+  transition: 0.33s;
+}
+
+.button:hover{
+  background-color:
+  padding-top:
+}
