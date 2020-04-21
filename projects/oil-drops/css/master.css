@@ -101,3 +101,16 @@ footer{
   color: #000022;
   background-color: #FBF5F3CC;
 }
+
+.gif-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+}
+
+#original{
+  max-width: 200px;
+  height: auto;
+}
