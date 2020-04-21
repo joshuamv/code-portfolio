@@ -84,6 +84,11 @@ footer{
   height: auto;
 }
 
+#guf{
+  max-width: 200px;
+  height: auto;
+}
+
 .button{
   border: 1px;
   border-color: #FBF5F3;
